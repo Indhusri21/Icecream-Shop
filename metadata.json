@@ -1,0 +1,6 @@
+{
+  "name": "Crema & Co. Artisanal Creamery",
+  "description": "Small-batch artisanal ice cream shop featuring daily churned flavors, custom sundae builder, tasting flights, and pickup ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
